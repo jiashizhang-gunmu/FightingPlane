@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="FightingPlane/FightingPlane.vcxproj" />
+  <Project Path="FightingPlane/FightingPlane.vcxproj" Id="4d828d0c-7ea2-4417-84d4-8a980512b48e" />
 </Solution>
